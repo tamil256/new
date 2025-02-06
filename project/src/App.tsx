@@ -11,7 +11,7 @@ function App() {
       price: "$348.00",
       rating: 4.5,
       imageUrl: "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&q=80&w=800",
-      affiliateLink: "#" // Replace with actual Amazon affiliate link
+      affiliateLink: "https://amzn.to/42MwCVa" // Replace with actual Amazon affiliate link
     },
     {
       title: "Kindle Paperwhite",
